@@ -1,12 +1,12 @@
 body{
-	background-color: white;
+	background-color:grey;
 	padding-top: 30px;
 }
 .container{
 	width: 250px;
 	height: 300px;
 	padding: 40px 30px;
-	background-color: white;
+	background-color: brown;
 	margin-top: 100px;
 	margin-right: auto;
 	margin-left: auto;
